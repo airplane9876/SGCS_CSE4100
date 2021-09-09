@@ -2,7 +2,7 @@
 시스템프로그래밍 과제
 
 # proj3
-sic/xe machine 구현하는 프로젝트
+sic/xe machine 구현하는 프로젝트  
 copy.obj를 실행하면 되는 과제이다.
 
 # proj4
